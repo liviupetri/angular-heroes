@@ -58,6 +58,18 @@ button:hover {
   background-color: #cfd8dc;
 }
 
+td.herolist {
+  width: 300px;
+}
+td.favhero{
+  width: 300px;
+  vertical-align: top;
+  background-color: lightyellow;
+  padding: 10px;
+}
+
+
+
 
 /*
 Copyright 2016 Google Inc. All Rights Reserved.
